@@ -1,0 +1,62 @@
+*,
+*::after,
+*::before,
+*::marker {
+    font-family:'Great Vibes', cursive;
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+img {
+    display: block;
+    margin: 0% auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+ol {
+    text-align: center;
+}
+
+.neo {
+width: 25%;
+margin: 0% auto;
+}
+
+p {
+    text-align: center;
+}
+
+hr {
+    width: 30%;
+    margin: 0% auto;
+}
+
+div {
+    text-align: center;
+}
+
+.center ol {
+    display: inline-block;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    cursor: pointer;
+}
+
+table, th, td {
+    margin: 0% auto;
+    width: 30%;
+    text-align: left;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5% 30% 5% 8%;
+}
