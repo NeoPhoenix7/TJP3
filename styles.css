@@ -21,6 +21,8 @@ width: 50%;
     margin: 2% 2%;
     width: 45%;
     display: inline-block;
+    font-size: large;
+    font-weight: bold;
 }
 
 .neo1 {
